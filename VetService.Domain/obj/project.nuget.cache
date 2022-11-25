@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOBXtjuYEFnUz46bajq0liXnTwsZsAh48pKXx2PTM/3icxV34ASUC2Y/OXqwQ34EhXlpADhtb+MpPfz7fBCaXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSatish\\source\\repos\\Petzey-Dotnet\\VetService.Domain\\VetService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSatish\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SSatish\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\SSatish\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
